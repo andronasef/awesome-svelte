@@ -1,30 +1,33 @@
-# <%= title %> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Svelte [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> <%= description %>
+⚡ A curated list of awesome Svelte resources
 
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Resources](#resources)
+  - [General Resources](#general-resources)
+- [UI Libraries](#ui-libraies)
 
+## Resources
 
-## Section
+### Official Resources
 
-About this section. Optional. Keep this short and focus on the list.
+- [Website](https://svelte.dev/)
+- [Tutorial](https://svelte.dev/tutorial/basics)
+- [REPL](https://svelte.dev/repl/hello-world?version=3.12.1)
+- [Blog](https://svelte.dev/blog/)
+- [Github](https://github.com/sveltejs/)
+- [Discord](https://svelte.dev/chat)
+- [Twitter](https://twitter.com/sveltejs)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## UI Libraries
 
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Contributing
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+- [Skeleton](https://www.skeleton.dev/)
+- [Shadcn Svelte](https://github.com/huntabyte/shadcn-svelte)
+- [SvelteUI](https://github.com/svelteuidev/svelteui)
+- [YeSvelte](https://github.com/yesvelte/yesvelte)
+- [Flowbite Svelte](https://github.com/themesberg/flowbite-svelte)
+- [SvelteStrap](https://github.com/bestguy/sveltestrap)
+- [Svelte Carbon](https://github.com/carbon-design-system/carbon-components-svelte)
